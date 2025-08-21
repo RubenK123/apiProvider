@@ -1,0 +1,202 @@
+[
+  {
+    "firstname": "Alice",
+    "surname": "Johnson",
+    "dateOfBirth": "1985-04-12",
+    "address": {
+      "street": "Maple Street",
+      "number": "42",
+      "zipCode": "10001",
+      "city": "New York",
+      "country": "USA"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+1-202-555-0147" },
+      { "type": "home", "number": "+1-202-555-0198" }
+    ],
+    "emailAddress": "alice.johnson@example.com",
+    "company": "TechNova",
+    "startOfEmployment": "2015-06-01",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Mark",
+    "surname": "Thompson",
+    "dateOfBirth": "1990-11-22",
+    "address": {
+      "street": "Cedar Avenue",
+      "number": "15A",
+      "zipCode": "94105",
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+1-415-555-0184" },
+      { "type": "home", "number": "+1-415-555-0121" }
+    ],
+    "emailAddress": "mark.thompson@example.com",
+    "company": "CloudEdge",
+    "startOfEmployment": "2018-09-15",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Sophia",
+    "surname": "Martinez",
+    "dateOfBirth": "1995-07-08",
+    "address": {
+      "street": "Gran Via",
+      "number": "87",
+      "zipCode": "28013",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+34-612-345-678" },
+      { "type": "home", "number": "+34-910-112-233" }
+    ],
+    "emailAddress": "sophia.martinez@example.es",
+    "company": "Soluciones Digitales",
+    "startOfEmployment": "2020-02-10",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Liam",
+    "surname": "O’Connor",
+    "dateOfBirth": "1988-01-15",
+    "address": {
+      "street": "Pearse Street",
+      "number": "122",
+      "zipCode": "D02",
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+353-86-234-5678" },
+      { "type": "home", "number": "+353-1-445-6789" }
+    ],
+    "emailAddress": "liam.oconnor@example.ie",
+    "company": "GreenEnergy Ltd.",
+    "startOfEmployment": "2012-11-01",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Hana",
+    "surname": "Kobayashi",
+    "dateOfBirth": "1993-03-30",
+    "address": {
+      "street": "Shibuya Crossing",
+      "number": "19-3",
+      "zipCode": "150-0002",
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+81-80-1234-5678" },
+      { "type": "home", "number": "+81-3-4567-8901" }
+    ],
+    "emailAddress": "hana.kobayashi@example.jp",
+    "company": "Nippon Tech",
+    "startOfEmployment": "2016-04-12",
+    "endOfEmployment": "2021-08-01"
+  },
+  {
+    "firstname": "Noah",
+    "surname": "Fischer",
+    "dateOfBirth": "1982-09-18",
+    "address": {
+      "street": "Königsallee",
+      "number": "55",
+      "zipCode": "40212",
+      "city": "Düsseldorf",
+      "country": "Germany"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+49-151-2345678" },
+      { "type": "home", "number": "+49-211-334455" }
+    ],
+    "emailAddress": "noah.fischer@example.de",
+    "company": "MediCare GmbH",
+    "startOfEmployment": "2010-03-20",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Emma",
+    "surname": "Dupont",
+    "dateOfBirth": "1998-12-01",
+    "address": {
+      "street": "Rue de Rivoli",
+      "number": "201",
+      "zipCode": "75001",
+      "city": "Paris",
+      "country": "France"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+33-6-12-34-56-78" },
+      { "type": "home", "number": "+33-1-44-55-66-77" }
+    ],
+    "emailAddress": "emma.dupont@example.fr",
+    "company": "Mode Parisienne",
+    "startOfEmployment": "2021-01-11",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "David",
+    "surname": "Carter",
+    "dateOfBirth": "1979-05-23",
+    "address": {
+      "street": "Baker Street",
+      "number": "221B",
+      "zipCode": "NW1",
+      "city": "London",
+      "country": "UK"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+44-7700-900123" },
+      { "type": "home", "number": "+44-20-7946-0958" }
+    ],
+    "emailAddress": "david.carter@example.co.uk",
+    "company": "FinServe Plc",
+    "startOfEmployment": "2008-05-05",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Elena",
+    "surname": "Petrova",
+    "dateOfBirth": "1987-02-14",
+    "address": {
+      "street": "Nevsky Prospekt",
+      "number": "33",
+      "zipCode": "191025",
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+7-921-123-4567" },
+      { "type": "home", "number": "+7-812-555-6677" }
+    ],
+    "emailAddress": "elena.petrova@example.ru",
+    "company": "Baltic Systems",
+    "startOfEmployment": "2014-10-10",
+    "endOfEmployment": ""
+  },
+  {
+    "firstname": "Carlos",
+    "surname": "Silva",
+    "dateOfBirth": "1991-06-09",
+    "address": {
+      "street": "Avenida Paulista",
+      "number": "999",
+      "zipCode": "01310-100",
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "phoneNumber": [
+      { "type": "mobile", "number": "+55-11-91234-5678" },
+      { "type": "home", "number": "+55-11-3322-4455" }
+    ],
+    "emailAddress": "carlos.silva@example.br",
+    "company": "InovaTech",
+    "startOfEmployment": "2019-07-01",
+    "endOfEmployment": ""
+  }
+]
